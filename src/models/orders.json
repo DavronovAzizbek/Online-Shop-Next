@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "product": {
+      "id": 1,
+      "name": "Coca Cola",
+      "img": "https://wac-cdn.atlassian.com/dam/jcr:8d79ab0e-9129-4a23-a1f0-ea1e50531a34/Coca-Cola_logo.png?cdnVersion=2106",
+      "desc": "Dastlab tiniq ichimlik sifatida sotilgan va patentli dori sifatida mo'ljallangan Coca-Cola 19-asr oxirida Jorjiya shtatining Atlanta shahrida Jon Stith Pemberton.",
+      "price": 20000,
+      "category_id": 1
+    },
+    "phone": "+998 90 867 84 38",
+    "count": "1",
+    "address": "xadra"
+  }
+]

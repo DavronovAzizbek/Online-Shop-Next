@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Coca Cola",
+    "img": "https://wac-cdn.atlassian.com/dam/jcr:8d79ab0e-9129-4a23-a1f0-ea1e50531a34/Coca-Cola_logo.png?cdnVersion=2106",
+    "desc": "Dastlab tiniq ichimlik sifatida sotilgan va patentli dori sifatida mo'ljallangan Coca-Cola 19-asr oxirida Jorjiya shtatining Atlanta shahrida Jon Stith Pemberton.",
+    "price": 20000,
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Fanta",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Fanta_2023.svg/1200px-Fanta_2023.svg.png",
+    "desc": "Fanta - nemis tadbirkori Maks Keyt boshchiligida Coca-Cola Deutschland tomonidan yaratilgan, Amerikaga tegishli mevali ta'mli gazlangan gazlangan ichimliklar brendidir. Dunyo bo'ylab 200 dan.",
+    "price": 200000,
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Sprite",
+    "img": "https://www.coca-cola.com/content/dam/onexp/cb/en/brands/sprite/sprite.png",
+    "desc": "Sprite - Coca-Cola kompaniyasi tomonidan yaratilgan tiniq, limonli ohak ta'mli alkogolsiz ichimlik. Sprite bir nechta ta'mga ega, jumladan kızılcık, olcha, uzum, apelsin, tropik, zanjabil va vanil.",
+    "price": 200000,
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Gucci",
+    "img": "https://ochkivip.ru/files/rubrics/brand/7131/gucci.png",
+    "desc": "Guccio Gucci  Gucci italyancha: sifatida biznes yuritadi, Italiyaning Florensiya shahrida joylashgan hashamatli italyan moda uyidir.Uning mahsulot qatoriga sumkalar, tayyor kiyim, poyabzal, aksessuarlar va uy bezaklari kiradi;",
+    "price": 200000,
+    "category_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Nike",
+    "img": "https://lastfm.freetls.fastly.net/i/u/ar0/f839a8d43c069f7e28c00c08d95ecded.png",
+    "desc": "Nike, Inc. dunyodagi eng mashhur sport brendlaridan biri bo‘lib, 1964-yilda Bill Bowerman va Phil Knight tomonidan tashkil etilgan. Dastlab kompaniya Blue Ribbon Sports nomi bilan tanilgan, ammo 1971-yilda Nike nomini oldi. ",
+    "price": 250000,
+    "category_id": 2
+  },
+  {
+    "id": 2,
+    "name": "Zara",
+    "img": "https://150273956.v2.pressablecdn.com/wp-content/uploads/2023/11/zara-logo-2048x1152.png",
+    "desc": "Zara (Zara kiyim-kechak, aksessuarlar, go'zallik mahsulotlari va parfyumeriya sotadi. Bosh ofisi Galisiya, A-Korunya provinsiyasidagi Arteixo shahrida joylashgan. Birgina 2020 yilda u yigirmadan ortiq yangi mahsulot turlarini ishga tushirdi.",
+    "price": 300000,
+    "category_id": 2
+  },
+  {
+    "id": 3,
+    "name": "Samsung Muzlatgich",
+    "img": "https://img.us.news.samsung.com/us/wp-content/uploads/2018/01/14112246/2018-Family-Hub-refrigerator-4-950x633.jpg",
+    "desc": "Samsung Electronics Co., Ltd. (SEC; SOMSUNG nomi bilan stilize qilingan; koreyscha: jeon-seong; RR: Samseong Jeonja; lit. Tristar Electronics) — Janubiy Koreyaning koʻp millatli yirik maishiy texnika va maishiy elektronika korporatsiyasi 1969-yil 13-yanvarda tashkil etilgan va bosh qarorgohi Yeongtong tumanida joylashgan. , Suvon, Janubiy Koreya.",
+    "price": 15000000,
+    "category_id": 3
+  },
+  {
+    "id": 3,
+    "name": "LG Mikroto‘lqinli pech",
+    "img": "https://assets.asaxiy.uz/product/items/desktop/e4da3b7fbbce2345d7772b0674a318d52022122815120593178tZ0Nb25PHJ.jpg.webp",
+    "desc": "LG Electronics Inc. (koreyscha: jeon jeonja; RR: Elji Jeonja) — bosh qarorgohi Yeouido-dong, Seul, Janubiy Koreyada joylashgan Janubiy Koreyaning yirik maishiy texnika va maishiy elektronika korporatsiyasi. LG Electronics Janubiy Koreyadagi to'rtinchi yirik chaebol bo'lgan LG korporatsiyasining bir qismidir va tez-tez ko'rib chiqiladi",
+    "price": 250000,
+    "category_id": 3
+  },
+  {
+    "id": 3,
+    "name": "Haier  Kir yuvish va tozalash texnikasi",
+    "img": "https://ir.ozone.ru/s3/multimedia-8/c1000/6368353916.jpg",
+    "desc": "Haier Group korporatsiyasi (/ˈhaɪ.ər/)[2] – bosh qarorgohi Shandong, Qingdao shahrida joylashgan Xitoyning ko‘p millatli maishiy texnika va maishiy elektronika kompaniyasi. Uning 35% ulushiga ega bo'lgan Haier Smart Home kompaniyasining filiali dizayn, ishlab chiqish va ishlab chiqarish bilan shug'ullanadi.",
+    "price": 300000,
+    "category_id": 3
+  },
+  {
+    "id": 4,
+    "name": "iPhone 16 pro max",
+    "img": "https://cdn.mos.cms.futurecdn.net/Pyma6LSPSGupqqWVwLYuJg.jpg",
+    "desc": "iPhone 16 Pro va iPhone 16 Pro Max – bu Apple Inc tomonidan ishlab chiqilgan va sotiladigan iPhone’lar. iPhone 16 va iPhone 16 Plus bilan bir qatorda ular iPhone 15 Pro va iPhone 15 Pro Max’dan keyingi iPhone’ning o‘n sakkizinchi avlodini tashkil qiladi.",
+    "price": 20000000,
+    "category_id": 4
+  },
+  {
+    "id": 4,
+    "name": "Xiaomi 14 ultra",
+    "img": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/5fc371169120893.6447868cab1d4.jpg",
+    "desc": "Xiaomi 14 - bu Xiaomi tomonidan ishlab chiqarilgan Android asosidagi smartfonlar seriyasi bo'lib, Xiaomi 13 seriyasidan keyin. Seriya kompaniyaning flagmani[4] qatoridir. Xiaomi 14 va 14 Pro, Qualcomm Snapdragon 8 Gen 3 bilan jihozlangan birinchi telefonlar",
+    "price": 6000000,
+    "category_id": 4
+  },
+  {
+    "id": 4,
+    "name": "Huawei pura 70 ultra",
+    "img": "https://avatars.mds.yandex.net/get-mpic/5234762/2a0000018f0968858f6be968da70c46c750a/orig",
+    "desc": "Huawei Pura seriyasi (ilgari Ascend P seriyasi va P seriyasi) Huawei tomonidan o'zining xususiy HarmonyOS mobil operatsion tizimi (AQSh sanksiyalari va savdo urushi oldidan Android asosidagi) asosida ishlab chiqarilgan yuqori va o'rta diapazonli smartfonlar qatoridir. 2019).",
+    "price": 8000000,
+    "category_id": 4
+  }
+]

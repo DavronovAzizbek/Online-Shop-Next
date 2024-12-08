@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Ichimliklar",
+    "img": "https://preview.redd.it/fizzy-drinks-v0-yyr6vtruhzbb1.jpg?width=640&crop=smart&auto=webp&s=ee3dafd94f6c3efc6a6d79e08285bc9e237601a5"
+  },
+  {
+    "id": 2,
+    "name": "Kiyimlar",
+    "img": "https://t3.ftcdn.net/jpg/02/10/85/26/360_F_210852662_KWN4O1tjxIQt8axc2r82afdSwRSLVy7g.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Maishiy texnika",
+    "img": "https://wiproappliances.com/cdn/shop/articles/home-appliances-min.jpg?v=1713851586"
+  },
+  {
+    "id": 4,
+    "name": "Telefonlar",
+    "img": "https://design-milk.com/images/2024/09/iphone-16-colors.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Oziq Ovqat",
+    "img": "https://storage.kun.uz/source/4/lQZJ-0P8Dct4FyO_RxZ4DWJYFls7Z56X.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Fast Food",
+    "img": "https://allianceobgyn.com/wp-content/uploads/2023/10/AdobeStock_486860394-scaled.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Avto Mobillar",
+    "img": "https://images.caradisiac.com/images/5/2/8/9/195289/S0-li-auto-l9-le-suv-electrique-chinois-promet-plus-de-1-000-km-d-autonomie-709764.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Uylar",
+    "img": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg"
+  }
+]
